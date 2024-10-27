@@ -7,7 +7,7 @@
 2. **Clone the Repository:**
    - Clone this project repository to your local machine using:
      ```bash
-     git clone https://github.com/srujalsk/sk-flutter-assignment.git
+     git clone https://github.com/srujalsk/flutter_application_1.git
      ```
    - Navigate into the project directory:
      ```bash
